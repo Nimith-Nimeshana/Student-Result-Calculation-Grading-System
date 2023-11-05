@@ -14,7 +14,7 @@ System Developed With
 
 This system helpful  for streamlines educational administration, offering a practical approach to academic record-keeping and student management.
 
-                                                                   Screenshots
+                                                        Screenshots
 
 Grading & Calculation Form
 
